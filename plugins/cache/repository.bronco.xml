@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+<plugin>
+
+<title><![CDATA[AdProfileAvatar]]></title>
+<author><![CDATA[Bronco]]></author>
+<version>1.0</version>
+<date>22/08/14</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[Ajoute la possibilité d'uploader un avatar depuis la page de profil et de l'utiliser sur les pages du site via un hook]]></description>
+<name>AdProfileAvatar</name>
+<file>http://repo.warriordudimanche.net/ZIPFILES/AdProfileAvatar.zip</file>
+<icon>http://repo.warriordudimanche.net/REPO/AdProfileAvatar/AdProfileAvatar.png</icon>
+</plugin>
+<plugin>
+
+<title><![CDATA[AdminMenu]]></title>
+<author><![CDATA[Bronco]]></author>
+<version>1.0</version>
+<date>24/08/14</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[Afficher un menu contenant des raccourcis vers des rubriques admin:
+- mon profil
+- Nouvel article
+- parametres
+- déconnexion]]></description>
+<name>AdminMenu</name>
+<file>http://repo.warriordudimanche.net/ZIPFILES/AdminMenu.zip</file>
+<icon>http://repo.warriordudimanche.net/REPO/AdminMenu/AdminMenu.png</icon>
+</plugin>
+<plugin>
+
+<title><![CDATA[Birthday_reminder]]></title>
+<author><![CDATA[Bronco]]></author>
+<version>1.0</version>
+<date>29/08/14</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[Ajoute la date anniversaire dans le profil et permet d'afficher le prochain anniversaire]]></description>
+<name>Birthday_reminder</name>
+<file>http://repo.warriordudimanche.net/ZIPFILES/Birthday_reminder.zip</file>
+<icon>http://repo.warriordudimanche.net/REPO/Birthday_reminder/Birthday_reminder.png</icon>
+</plugin>
+<plugin>
+
+<title><![CDATA[MO]]></title>
+<author><![CDATA[Bronco]]></author>
+<version>1.0</version>
+<date>09/07/14</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[MO - Members Only
+Verrouille l'accès au site aux non inscrits (le site devient donc un espace privé pour membres inscrits)]]></description>
+<name>MO</name>
+<file>http://repo.warriordudimanche.net/ZIPFILES/MO.zip</file>
+<icon>http://repo.warriordudimanche.net/REPO/MO/MO.png</icon>
+</plugin>
+<plugin>
+
+<title><![CDATA[PluginItemInAdminMenu]]></title>
+<author><![CDATA[Bronco]]></author>
+<version>1.0</version>
+<date>20/02/15</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[Ajoute un lien direct vers la page de plugins dans le menu Admin...]]></description>
+<name>PluginItemInAdminMenu</name>
+<file>http://repo.warriordudimanche.net/ZIPFILES/PluginItemInAdminMenu.zip</file>
+<icon>http://repo.warriordudimanche.net/REPO/PluginItemInAdminMenu/PluginItemInAdminMenu.png</icon>
+</plugin>
+<plugin>
+
+<title><![CDATA[QuickPost]]></title>
+<author><![CDATA[Bronco]]></author>
+<version>1.1</version>
+<date>14/09/14</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[Permet de poster rapidement un nouvel article via un bookmarklet]]></description>
+<name>QuickPost</name>
+<file>http://repo.warriordudimanche.net/ZIPFILES/QuickPost.zip</file>
+<icon>http://repo.warriordudimanche.net/REPO/QuickPost/QuickPost.png</icon>
+</plugin>
+<plugin>
+
+<title><![CDATA[Stay_connected]]></title>
+<author><![CDATA[Bronco]]></author>
+<version>1.0</version>
+<date>15/01/15</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[Ajoute une case "rester connecté" à cocher sur les ordinateurs privés.]]></description>
+<name>Stay_connected</name>
+<file>http://repo.warriordudimanche.net/ZIPFILES/Stay_connected.zip</file>
+<icon>http://repo.warriordudimanche.net/REPO/Stay_connected/Stay_connected.png</icon>
+</plugin>
+<plugin>
+
+<title><![CDATA[WDD_BanComment]]></title>
+<author><![CDATA[bronco@warriordudimanche.net]]></author>
+<version>1.1</version>
+<date>11/07/2015</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[Empêcher les commentaires en bloquant certains mots dans le nom/adresse/email/ip]]></description>
+<name>WDD_BanComment</name>
+<file>http://repo.warriordudimanche.net/ZIPFILES/WDD_BanComment.zip</file>
+<icon>http://repo.warriordudimanche.net/REPO/WDD_BanComment/WDD_BanComment.png</icon>
+</plugin>
+<plugin>
+
+<title><![CDATA[WDD_cache]]></title>
+<author><![CDATA[Bronco]]></author>
+<version>1.0</version>
+<date>25/02/15</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[Un cache simple a gérer. Note: charger ce plug-in en dernier]]></description>
+<name>WDD_cache</name>
+<file>http://repo.warriordudimanche.net/ZIPFILES/WDD_cache.zip</file>
+<icon>http://repo.warriordudimanche.net/REPO/WDD_cache/WDD_cache.png</icon>
+</plugin>
+<plugin>
+
+<title><![CDATA[WDD_mobile_menu]]></title>
+<author><![CDATA[Bronco]]></author>
+<version>1.0</version>
+<date>08/01/15</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[Crée automatiquement un menu pour mobile responsive (sans jquery).
+	Vous pouvez éditer le contenu du menu et les css dans le dossier du plugin (menu.php/style.css)]]></description>
+<name>WDD_mobile_menu</name>
+<file>http://repo.warriordudimanche.net/ZIPFILES/WDD_mobile_menu.zip</file>
+<icon>http://repo.warriordudimanche.net/REPO/WDD_mobile_menu/WDD_mobile_menu.png</icon>
+</plugin>
+<plugin>
+
+<title><![CDATA[custom_login_page]]></title>
+<author><![CDATA[Bronco]]></author>
+<version>1.0</version>
+<date>22/08/14</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[faire une page de login personnalisée]]></description>
+<name>custom_login_page</name>
+<file>http://repo.warriordudimanche.net/ZIPFILES/custom_login_page.zip</file>
+<icon>http://repo.warriordudimanche.net/REPO/custom_login_page/custom_login_page.png</icon>
+</plugin>
+<plugin>
+
+<title><![CDATA[likeIt]]></title>
+<author><![CDATA[Bronco]]></author>
+<version>1.0</version>
+<date>12/09/14</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[un système de like à la facebook pour les inscrits]]></description>
+<name>likeIt</name>
+<file>http://repo.warriordudimanche.net/ZIPFILES/likeIt.zip</file>
+<icon>http://repo.warriordudimanche.net/REPO/likeIt/likeIt.png</icon>
+</plugin>
+<plugin>
+
+<title><![CDATA[quotes]]></title>
+<author><![CDATA[Bronco]]></author>
+<version>1.0</version>
+<date>24/08/14</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[Afficher une quote au hasard]]></description>
+<name>quotes</name>
+<file>http://repo.warriordudimanche.net/ZIPFILES/quotes.zip</file>
+<icon>http://repo.warriordudimanche.net/REPO/quotes/quotes.png</icon>
+</plugin>
+</document>

@@ -1,0 +1,6 @@
+## Version beta 2 (26/05/2012) ##
+[+] Ecran de téléchargement des plugins propriétaires
+BUG Hook AdminTopBottom: mauvaise déclaration des varariables $testx
+
+## Version beta 1 (11/05/2012) ##
+version initiale

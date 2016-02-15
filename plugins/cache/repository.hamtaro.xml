@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <plugin>
+    <title><![CDATA[hamGravatar]]></title>
+    <author><![CDATA[Damien Guillot]]></author>
+    <version>2.4</version>
+    <date>14/08/2015</date>
+    <site>http://labo.customtaro.fr</site>
+    <description><![CDATA[Intégration du système Gravatar - www.gravatar.com]]></description>
+    <name>hamGravatar</name>
+    <file>https://github.com/Hamtar0/hamGravatar/archive/master.zip</file>
+    <icon>https://s3.amazonaws.com/f.cl.ly/items/3T3j0i0M3U1P0n071g0Q/icon.png</icon>
+  </plugin>
+  <plugin>
+    <title><![CDATA[hamRSS]]></title>
+    <author><![CDATA[Damien Guillot]]></author>
+    <version>1.01</version>
+    <date>13/11/2013</date>
+    <site>http://labo.customtaro.fr</site>
+    <description><![CDATA[Utilisation d'un service extérieur de gestion du flux RSS]]></description>
+    <name>hamRSS</name>
+    <file>https://github.com/Hamtar0/hamRSS/archive/master.zip</file>
+    <icon>https://s3.amazonaws.com/f.cl.ly/items/2P0K413E401h3K2h1o1j/icon.png</icon>
+  </plugin>
+</document>

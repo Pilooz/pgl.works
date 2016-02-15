@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<repository>
+		<title><![CDATA[Pluxopolis]]></title>
+		<author><![CDATA[Stephane F]]></author>
+		<repositoryurl>https://raw.githubusercontent.com/Pluxopolis/repository/master/repository.xml</repositoryurl>
+		<repositoryversionurl>https://raw.githubusercontent.com/Pluxopolis/repository/master/repository.version</repositoryversionurl>
+		<site>http://www.pluxopolis.net</site>
+		<description><![CDATA[Liste des dépots des plugins pluxopolis]]></description>
+		<name>pluxopolis</name>
+		<icon>http://pluxopolis.net/themes/defaut/img/favicon.png</icon>
+	</repository>
+	<repository>
+		<title><![CDATA[Spx]]></title>
+		<author><![CDATA[je-evrard]]></author>
+		<repositoryurl>http://www.secretsitebox.fr/spx/repository/repository.xml</repositoryurl>
+		<repositoryversionurl>http://www.secretsitebox.fr/spx/repository/repository.version</repositoryversionurl>
+		<site>http://www.secretsitebox.fr</site>
+		<description><![CDATA[Liste des dépots des plugins spx]]></description>
+		<name>spx</name>
+		<icon>http://secretsitebox.fr/site/themes/secretsitebox/images/favicon.ico</icon>
+	</repository>
+	<repository>
+		<title><![CDATA[The Poulpe.net]]></title>
+		<author><![CDATA[Rockyhorror]]></author>
+		<repositoryurl>http://thepoulpe.net/repository/repository.xml</repositoryurl>
+		<repositoryversionurl>http://thepoulpe.net/repository/repository.version</repositoryversionurl>
+		<site>http://thepoulpe.net</site>
+		<description><![CDATA[Les plugins du poulpe pour PluXml]]></description>
+		<name>poulpe</name>
+		<icon>http://thepoulpe.net/repository/logo-orange-small.png</icon>
+	</repository>
+	<repository>
+		<title><![CDATA[Ecyseo]]></title>
+		<author><![CDATA[Cyril MAGUIRE]]></author>
+		<repositoryurl>https://raw.githubusercontent.com/jerrywham/repositoryForPluxml/master/repository.xml</repositoryurl>
+		<repositoryversionurl>https://raw.githubusercontent.com/jerrywham/repositoryForPluxml/master/repository.version</repositoryversionurl>
+		<site>http://www.ecyseo.net</site>
+		<description><![CDATA[Liste des dépots des plugins de Jerry Wham]]></description>
+		<name>ecyseo</name>
+		<icon>http://www.ecyseo.net/plugins/favicon/img/apple-touch-icon.png</icon>
+	</repository>
+	<repository>
+		<title><![CDATA[Bronco]]></title>
+		<author><![CDATA[Bronco]]></author>
+		<repositoryurl>http://egoweb.o2switch.net/repo/repository.xml</repositoryurl>
+		<repositoryversionurl>http://egoweb.o2switch.net/repo/repository.version</repositoryversionurl>
+		<site>http://warriordudimanche.net</site>
+		<description><![CDATA[Liste des dépots des plugins de Bronco]]></description>
+		<name>bronco</name>
+		<icon>http://warriordudimanche.net/themes/defaut/img/favicon2.png</icon>
+	</repository>
+	<!--<repository>
+		<title><![CDATA[Jormun]]></title>
+		<author><![CDATA[Jormun]]></author>
+		<repositoryurl>http://brunchparisien.fr/depot/repository.xml</repositoryurl>
+		<repositoryversionurl>http://brunchparisien.fr/depot/repository.version</repositoryversionurl>
+		<site>http://brunchparisien.fr</site>
+		<description><![CDATA[Liste des dépots des plugins de Jormun]]></description>
+		<name>jormun</name>
+		<icon>http://brunchparisien.fr/depot/favicon.png</icon>
+	</repository>-->
+	<repository>
+		<title><![CDATA[Hamtaro]]></title>
+		<author><![CDATA[Hamtaro]]></author>
+		<repositoryurl>https://raw.githubusercontent.com/Hamtar0/repository/master/repository.xml</repositoryurl>
+		<repositoryversionurl>https://raw.githubusercontent.com/Hamtar0/repository/master/repository.version</repositoryversionurl>
+		<site>http://www.customtaro.fr/</site>
+		<description><![CDATA[Liste des dépots des plugins pluxopolis]]></description>
+		<name>hamtaro</name>
+		<icon><![CDATA[https://avatars0.githubusercontent.com/u/1239484?v=3&s=40]]></icon>
+	</repository>
+	<repository>
+		<title><![CDATA[Best of]]></title>
+		<author><![CDATA[pluxml]]></author>
+		<repositoryurl>http://www.secretsitebox.fr/spx/repository/repositorybestof.xml</repositoryurl>
+		<repositoryversionurl>http://www.secretsitebox.fr/spx/repository/repositorybestof.version</repositoryversionurl>
+		<site>http://www.pluxml.fr</site>
+		<description><![CDATA[Liste des dépots des plugins indispensables]]></description>
+		<name>bestof</name>
+		<icon>http://secretsitebox.fr/spx/repository/bestof/top.png</icon>
+	</repository>
+	
+	
+</document>

@@ -1,0 +1,368 @@
+/* use for pluxml 5.4 */
+#plugin .section .action-bar {
+	/*min-height: 0;
+	position: static;
+	margin-left: 0;*/
+	
+	display:none;
+}
+/* end use for pluxml 5.4 */
+
+table.mypdler td {
+	padding: 18px 20px 20px 8px;
+	font-size:14px;
+}
+
+.new-red {
+	background: url(../img/new-red.png) no-repeat top left;
+}
+.new-blue {
+	background: url(../img/new-blue.png) no-repeat top left;
+}
+
+table.mypdler td.description {
+	width:80%;
+}
+table.mypdler td.action {
+	width:20%;
+	text-align:center;
+}
+
+
+/* Logo, Description and Main Menu
+----------------------------------------------------------------*/
+
+
+
+#contentplugindownloader #brdmenu ul {
+	padding: 0;
+	margin: 0;
+	margin-top:10px;
+}
+
+#contentplugindownloader #brdmenu li {
+	display:inline-block;
+	text-align:center;
+	 padding: 0;
+	margin-left: -5px;
+}
+#contentplugindownloader #brdmenu a {
+    padding: 0;
+	margin: 0;
+}
+#contentplugindownloader #brdmenu a:link, #contentplugindownloader #brdmenu a:visited {
+	display: block;
+	min-width: 60px;
+	padding: 10px 16px 10px 16px;
+	white-space: nowrap;
+	
+}
+
+#contentplugindownloader #brdmenu a:hover, #contentplugindownloader #brmenu a:active, #contentplugindownloader #brdmenu a:focus {
+	text-decoration: none;
+}
+
+/* Primary Navigation
+----------------------------------------------------------------*/
+
+#contentplugindownloader #brdmenu {
+	background: #f9f9f9;
+	padding-left: 5px;
+}
+
+#contentplugindownloader #brdmenu a, #brdmenu a:link, #contentplugindownloader #brdmenu a:visited,  {
+	background: #f9f9f9;
+	border-color: #fff;
+	color: #fff;
+	margin :0;
+}
+
+#contentplugindownloader #brdmenu a:hover, #contentplugindownloader #brdmenu a:active, #contentplugindownloader #brdmenu a:focus, #contentplugindownloader #brdmenu li.isactive a {
+	background: #1af;
+	border-color: #fff;
+	color: #fff;
+}
+
+
+
+
+
+
+/*
+table.mypdler .btnDownload {
+	background-color:#007fff;
+	color:#fff;
+	width:95px;
+}
+table.mypdler .btnDownload:hover {
+	background-color:#56aaff;
+}
+table.mypdler .btnUpdate {
+	background-color:#ef102e;
+	color:#fff;
+	width:95px;
+}
+table.mypdler .btnUpdate:hover {
+	background-color:#ff5656;
+}
+*/
+
+
+#contentplugindownloader img{
+	line-height:4em;
+	vertical-align:middle;
+}
+
+#contentplugindownloader img.thumb{
+	border:1px solid #d7d7d7;
+	background-color:#ececec;
+}
+
+#contentplugindownloader th, tr, td {
+	padding: 8px 4px 8px 4px;
+}
+
+#contentplugindownloader a {
+	color:gray;
+	text-decoration:none;
+}
+
+#contentplugindownloader a:hover {
+	color:#1af;
+	text-decoration:none;
+}
+#contentplugindownloader div.separate,#contentplugindownloader div.separate2  {
+	height:1px;
+	width:100%;
+	border-bottom:solid 1px #CCC;
+	padding-top:5px;
+	margin-bottom:5px;
+}
+#contentplugindownloader div.separate2  {
+	width:100%;
+}
+#contentplugindownloader div.spacer {
+	height:1px;
+	width:100%;
+	padding-top:5px;
+	margin-bottom:5px;
+}
+
+#contentplugindownloader  .clear {
+	clear: both !important;
+	float: none;
+	padding: 0px !important;
+}
+
+/*------------------------------------BUTTON --------------------------------------*/
+#contentplugindownloader .btsk,#contentplugindownloader .btsk:visited {
+	display:inline-block;
+	padding:5px 10px 6px;
+	color:#fff!important;
+	text-decoration:none!important;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	-moz-box-shadow:0 1px 3px rgba(0,0,0,0.3);
+	-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.3);
+	text-shadow:0 -1px 1px rgba(0,0,0,0.25);
+	border-bottom:1px solid rgba(0,0,0,0.25);
+	position:relative;
+	cursor:pointer;
+	margin-bottom: 10px;
+}
+#contentplugindownloader .btsk:hover {
+background-color:#111!important;
+color:#fff;
+}
+
+#contentplugindownloader .btsk:active {
+top:1px;
+}
+#contentplugindownloader .green.btsk,#contentplugindownloader .green.btsk:visited {
+background-color:#91bd09!important;;
+}
+
+#contentplugindownloader .green.btsk:hover {
+-webkit-animation-name:greenPulse;
+-webkit-animation-duration:2s;
+-webkit-animation-iteration-count:infinite;
+}
+
+#contentplugindownloader .blue.btsk,#contentplugindownloader .blue.btsk:visited {
+background-color:#2981e4!important;;
+}
+
+#contentplugindownloader .blue.btsk:hover {
+-webkit-animation-name:bluePulse;
+-webkit-animation-duration:2s;
+-webkit-animation-iteration-count:infinite;
+}
+
+#contentplugindownloader .red.btsk,#contentplugindownloader .red.btsk:visited {
+background-color:#f11e27!important;;
+}
+
+#contentplugindownloader .red.btsk:hover {
+-webkit-animation-name:redPulse;
+-webkit-animation-duration:2s;
+-webkit-animation-iteration-count:infinite;
+}
+
+#contentplugindownloader .medium.btsk,#contentplugindownloader .medium.btsk:visited {
+font-size:14px!important;
+font-weight:700;!important;
+text-shadow:0 -1px 1px rgba(0,0,0,0.25);!important;
+padding:4px !important;
+padding-right:8px !important;
+}
+
+#contentplugindownloader .btsk.add,#contentplugindownloader .btsk.del,#contentplugindownloader .btsk.upd,#contentplugindownloader .btsk.cancel,#contentplugindownloader .btsk.next,#contentplugindownloader .btsk.prev ,#contentplugindownloader .btsk.update {
+background-image:url(../img/bt_add.png);
+background-position:3px 3px;
+background-repeat:no-repeat;
+padding-left:34px !important;
+}
+
+#contentplugindownloader .btsk.del {
+background-image:url(../img/bt_del.png);
+}
+
+#contentplugindownloader .btsk.upd {
+background-image:url(../img/bt_upd.png);
+}
+
+#contentplugindownloader .btsk.cancel {
+background-image:url(../img/bt_cancel.png);
+}
+#contentplugindownloader .btsk.next {
+background-image:url(../img/bt_next.png);
+}
+#contentplugindownloader .btsk.prev {
+background-image:url(../img/bt_prev.png);
+}
+#contentplugindownloader .btsk.update {
+background-image:url(../img/bt_update.png);
+}
+/*------------------------------------MENUTOP --------------------------------------*/
+
+
+#contentplugindownloader #incmenutop {
+	
+	height:auto;
+	border-bottom:solid 1px #CCC;
+	padding-top:30px;
+	margin-top:-10px;
+}
+#contentplugindownloader #incmenutop ul{
+	padding:0;
+	margin:0px;
+}
+#contentplugindownloader #incmenutop li {
+	
+	/*float:left;*/
+	display:inline-block;
+	padding-left:5px;
+	padding-right:5px;
+	height:25px;
+}
+
+#contentplugindownloader #incmenutop a, #contentplugindownloader #incmenutop a:link, #contentplugindownloader #incmenutop a:visited {
+	font-weight:700;
+	font-size:14px;
+	border:1px #CCC solid;
+	border-bottom:none;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:7px;
+	padding-bottom:7px;
+	background-color:#EAEAEA;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-moz-border-radius-topleft:5px;
+	-moz-border-radius-topright:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	background-image:linear-gradient(bottom,rgb(230,230,230) 12% #f5f2f5 56%;
+	background-image:0 12% #f5f2f5 56%;
+	background-image:0 12% #f5f2f5 56%;
+	background-image:0 12% #f5f2f5 56%;
+	background-image:0 12% #f5f2f5 56%;
+	background-image:0 color-stop(0.56,rgb(245,242,245)) );
+	
+	
+}
+
+#contentplugindownloader #incmenutop u1 {
+	
+}
+#contentplugindownloader #incmenutop img{
+	margin-right:5px;
+}
+
+#contentplugindownloader #incmenutop a.selected {
+	background-color:#f9f9f9;
+	padding-bottom:9px;
+	background-image:none;
+	color:#1af !important;
+}
+
+
+/*------------------------------------formulaire --------------------------------------*/
+#contentplugindownloader select{
+	height:30px;
+}
+#contentplugindownloader select, #contentplugindownloader input{
+	border: #C9C9C9 solid 1px;
+	color: #333;
+	background-color: #FFF;
+	outline: none;
+}
+#contentplugindownloader form {
+	margin: 10px 0 0px 0px;
+}
+#contentplugindownloader fieldset {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+#contentplugindownloader .radio,
+#contentplugindownloader .checkboxtable {
+  min-height: 20px;
+  padding-left: 5px;
+}
+
+#contentplugindownloader .radio input[type="radio"],
+#contentplugindownloader.checkboxtable input[type="checkbox"] {
+  float: left;
+  margin-left: -20px;
+}
+
+#contentplugindownloader .controls > .radio:first-child,
+#contentplugindownloader .controls > .checkboxtable:first-child {
+  padding-top: 5px;
+}
+
+#contentplugindownloader .radio.inline,
+#contentplugindownloader .checkboxtable.inline {
+  display: inline-block;
+  padding-top: 5px;
+  margin-bottom: 0;
+  vertical-align: middle;
+}
+
+#contentplugindownloader .radio.inline + .radio.inline,
+#contentplugindownloader .checkboxtable.inline + .checkbox.inline {
+  margin-left: 10px;
+}
+
+
+
+/*------------------------------------end of formulaire --------------------------------------*/
+/*------------------------------------comptability pluxml > 5.3.1 --------------------------------------*/
+#contentplugindownloader .icon img { 
+	max-width:none; 
+}
+#plugin section{
+	margin-top: 0px !important;
+}
+

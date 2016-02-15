@@ -1,0 +1,7 @@
+## Version 1.1 (05/09/2013) ##
+[+] Prise en compte de la page statique comme page d'accueil au niveau de l'affichage du lien Accueil
+[+] Prise en compte du lien Blog si une page statique est définie comme page d'accueil
+BUG: mauvais lien de la page d'accueil avec la réécriture d'url activée
+
+## Version 1.0 (22/03/2013) ##
+version initiale

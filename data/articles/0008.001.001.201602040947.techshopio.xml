@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[TechshopIO]]></title>
+	<allow_com>0</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[Dans le cadre de mon implication dans le monde de <a href="http://www.mus%C3%A9omix.org/" title="Muséomix">Muséomix</a>, j'ai écrit un petit logiciel en mode KISS (Keep It Supid and Simple) pour gérer les entrées / sorties de matériel de la TechShop pendant l'évènement. Ce logiciel, présenté comme une simple liste support les lecteur de codes barres, ce qui permet d'optimiser grandement le travail de gestion pendant les périodes de rush des évènements Mix.<br />Plus de détails sur <a href="http://techshop.io/" title="TechShopIO">TechShopIO</a>.<br />&nbsp;<br />]]></content>
+	<tags><![CDATA[Muséomix, Ruby]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

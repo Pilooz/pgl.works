@@ -1,0 +1,51 @@
+## Version spx 2.5 (17/08/2015) ##
+BUG: hide a repository if version = 0
+
+## Version spx 2.4 (30/07/2015) ##
+DISPLAY: fix css for pluxml 5.4
+
+## Version spx 2.3 (23/03/2015) ##
+BUG: fix bug for downloadRemoteFile (downloadRemoteFile2 with bronco method)
+
+## Version spx 2.2 (20/03/2015) ##
+MOD: traduction
+BUG: changement sur la façon d'installer et de mettre à jour (copie le plugin en plugin.tmp)
+BUG: position du menu
+
+## Version spx 2.1 (07/03/2015) ##
+BUG sur la gestion du cache
+
+## Version spx 2 (28/02/2015) ##
+[+] installation du système de dépôts
+[+] change traduction pour les plugins installés
+
+## Version spx 1.0 (22/02/2015) ##
+[+] url repository
+[+] css review
+[+] add hitcounter
+
+## Version 1.2 (27/01/2015) ##
+[+] Traduction anglaise (contribution ComputingFroggy)
+[+] Dézippage avec les droits 0755 au lieu de 0777
+BUG: mauvaise prise en charge SSL
+BUG: mauvais détection du safe_mode
+
+## Version 1.1 (26/06/2014) ##
+[+] Relocalisation des dépôts sur github
+[+] Mise à jour dUnzip2 en version 2.67
+[+] Changement d'emplacement du dossier cache
+[+] Suppression du fichier .zip du plugin téléchargé après décompression
+[-] Suppression du formulaire d'installation des plugins non gérés par le dépôt de Pluxopolis
+
+## Version 1.0 (02/08/2013) ##
++ Compatibilité PluXml 5.2
+
+## Version beta 2.1 (20/06/2012) ##
+[BUG] Fatal error: Call to a member function getLang() on a non-object in plxMyPluginDownloader.php on line 166
+
+## Version beta 2 (26/05/2012) ##
+[+] Ecran de téléchargement des plugins propriétaires
+BUG Hook AdminTopBottom: mauvaise déclararation des varariables $testx
+
+## Version beta 1 (11/05/2012) ##
+version initiale

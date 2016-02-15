@@ -1,0 +1,85 @@
+.section .action-bar {
+	z-index: 0 !important; /* hack PluXml 5.4 */
+}
+
+img {
+	border:none;
+}
+.editor {
+	margin:0;
+	padding:0;
+	width:100%;
+}
+.editor .footer {
+	text-align: right;
+	font-size: 0.9rem;
+	width: 100%;
+	padding-right: 10px;
+}
+.editor .resizable {
+	resize: vertical;   /* Options: horizontal, vertical, both */
+	overflow: auto; /* fix for Safari */
+}
+.iframe {
+	width:100%;
+	height:100%;
+	background-color:#fff;
+	border: 1px solid #bbb;
+	min-height: 300px;
+}
+.toolbar select {
+	border: none;
+	padding: 0;
+	margin-bottom: 5px;
+}
+.toolbar img  {
+	margin-bottom: -5px;
+	width:20px;
+	height:20px;
+	opacity: 1;
+	filter: alpha(opacity=100); /* For IE8 and earlier */
+	border: none;
+}
+.toolbar img:hover {
+	opacity: 0.4;
+	filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+.toolbar .separator {
+	width: 0px;
+	height: 20px;
+	border-left: #aca899 1px solid;
+	border-right: #ffffff 1px solid;
+	margin: 0 3px -5px 3px;
+	display: inline-block;
+}
+
+/******************************/
+
+.wysiwyg-fullscreen {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 100%;
+	width: 100%;
+	background-color: #fff;
+	padding: 10px;
+}
+@media (max-width: 767px) {
+	.wysiwyg-fullscreen {
+		top: 2.3rem;
+	}
+}
+
+/********************************/
+
+table#popup {
+	font-size: 0.8rem;
+}
+table#popup td {
+	padding:2px 2px 2px 4px;
+	margin:0;
+	border:0;
+	background-color:#f2f2f2;
+}

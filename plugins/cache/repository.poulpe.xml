@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<plugin>
+		<title><![CDATA[artGalerie]]></title>
+		<author><![CDATA[Rockyhorror]]></author>
+		<version>4.3</version>
+		<date>21/07/2015</date>
+		<site>http://thepoulpe.net</site>
+		<description><![CDATA[Gestionnaire de galeries d'images dans vos articles et pages statiques.]]></description>
+		<name>artGalerie</name>
+		<file>http://thepoulpe.net/data/documents/artgalerie-4.3.zip</file>
+		<icon>http://thepoulpe.net/data/images/vignettes/lighbox.tb.png</icon> 
+	</plugin>
+	<plugin>
+		<title><![CDATA[lockArticles]]></title>
+		<author><![CDATA[Rockyhorror]]></author>
+		<version>1.5</version>
+		<date>19/07/2015</date>
+		<site>http://thepoulpe.net</site>
+		<description><![CDATA[Mettre un mot de passe à vos articles, vos pages statiques ou vos catégories.]]></description>
+		<name>lockArticles</name>
+		<file>http://thepoulpe.net/data/documents/lockarticles-1.5.zip</file>
+		<icon>http://thepoulpe.net/data/images/vignettes/paper_lock200.tb.png</icon> 
+	</plugin>
+	<plugin>
+		<title><![CDATA[Vignette]]></title>
+		<author><![CDATA[Rockyhorror]]></author>
+		<version>1.0</version>
+		<date>29/11/2015</date>
+		<site>http://thepoulpe.net</site>
+		<description><![CDATA[Illustrer vos articles et pages statiques avec une vignette.]]></description>
+		<name>Vignette</name>
+		<file>http://thepoulpe.net/data/documents/vignette-1.0.zip</file>
+		<icon>http://thepoulpe.net/data/images/vignettes/vignette.tb.png</icon> 
+	</plugin>
+	<plugin>
+		<title><![CDATA[Blogroll]]></title>
+		<author><![CDATA[Rockyhorror]]></author>
+		<version>0.8</version>
+		<date>26/07/2015</date>
+		<site>http://thepoulpe.net</site>
+		<description><![CDATA[Gestionnaire de liens.]]></description>
+		<name>Blogroll</name>
+		<file>http://thepoulpe.net/data/documents/blogroll-0.8.zip</file>
+		<icon>http://thepoulpe.net/data/images/vignettes/link-icon.tb.png</icon> 
+	</plugin>
+	<plugin>
+		<title><![CDATA[AutoSave]]></title>
+		<author><![CDATA[Rockyhorror, Cyril MAGUIRE]]></author>
+		<version>0.6</version>
+		<date>17/07/2015</date>
+		<site>http://thepoulpe.net</site>
+		<description><![CDATA[Sauvegarde les données d'un article, ou d'une page statique en cours d'édition.]]></description>
+		<name>AutoSave</name>
+		<file>http://thepoulpe.net/data/documents/autosave-0.6.zip</file>
+		<icon>http://thepoulpe.net/data/images/photos/vignette/save.tb.png</icon> 
+	</plugin>
+</document>
